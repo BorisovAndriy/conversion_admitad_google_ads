@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "evident-alloy-377514",
+  "private_key_id": "91abcd0f9793b97292ac541466fa1b18350e83aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDGbRLUznYKS13R\nYkbUdskg/EB7SAITt5EWLgj6EnbZGxKxPR8xuyGdIGmz/H9Ly5SsVB1aU7AqLPnS\nOBAmLiNipnkZ5J/TwS3t9rIqFfSWetIa1jJCgHVPpMiKUq3KDLP8G9oyQIVUb5cX\nuCjAmI5ym5PipbFfEqOOFsSrnJi/TzJUMwFUtXnoXxEv39BHpjGgJbzhmK97shWo\n6My2tCHmiJAwTvlQ33Do2HOZ8KMPQL6o6HwG4NKMGv4Ap0M1Cyt8nqtQ+LgUmtzS\nXR2TH7ssibyGg8m2JZyGh2F4zaLPbKrVW6h8jeuK4MElHeNnvaRx73WoQK5Puq9D\ngaP3QYsLAgMBAAECggEATKJNlpDSd/FZn4dkMaRa03l48eQCoVjRGQ7YerRs4Dab\nhoZDqPJL7iJZkKDhDQXoOpIV8A/IRtGt/mmWmxhQpEYFGWH59E90jKYtcyGdoAx5\nXtIBATwZkpPiu8Foy1MSpDihkaznkY+ze/6tBo0k3tCFUhCKK1zIfBUBCgJl3+Ro\nPOG4/GbJV0DPQvWqfMA2q8o6JyTnlje2ywjAAbNQ5H00CoN0ume45+e5UCymBM+Q\nRT9C0bBUZN8UqEctzi28Ew+2thg/3RdAMHlXByc95QmBqLf+k5CAAzKu8JZ2CBin\nHzoYBD5FAMU1jMBWlQITU/ucbDa4lXLGBkQQcSEI4QKBgQD7TDOYNkcCJCmkwwvX\nT8YyOWeb2R3SH7GpAwBeI20DVOiHCv/vs642FnQ0ovt0XRVNLtPqxXmJSunJk/Ix\n30sqPif8M6c3uG58yclAAs/j5+55INh3OMbK+ZDtiBlCBPJWieODTsvNcF+hCcal\ntMJqh+rP1gfs10BXemhM0FGMGwKBgQDKI5mFjwZdfUladvP6uVJigAJKAH05WLtT\nAEXLpst/dvP8+Jvxfj0FDwJ1uU/sxGEjfQSoOay6sXmbWl83vCFhseOGaCnnoeto\nrxT89pgGemjtlg8YerB5f+iLZG1PQeYvRzLuco/ohz/6DCuvnJT37bsNiKO8R8Ov\nqDodA4sL0QKBgQDNV4cRaci8RzCAIaEbX2RkxeOTxeZIPP2/TWSPiAMcJdWcA7D+\n/aPtLovmNweiHi250/n2bUbSmRRQU0Qk3IFfE0s5GjwZm+ssrPZ2B9Y4NNz4vY4k\nXZCTazqx3fRFriUX8bSnJ0wBo0GBJavc28fBpS6KhioTrhA1ayCvI8p+4QKBgQCN\nYJrGlAMirjb4w8ve53EcnWV8dp0e19WktsMaLd2UmBEMNKF1JRLuj9HrnqGs+qjq\nFk2Ej1ok9W4VXv7Lz5QVbUKyRfZRIKmyfQoT5zDrDwCGc3a5a040nGZ739CoJ3Ik\nTQrtRUkrnDT94TdIyx5RzX8Pdyr1y8es+t8yXcEJkQKBgQC9Thm12sikLKowuYWt\nmAaMl8SVTZr7PhrrmImTLeio6ufa5yE24/9f4ll3K4bHKxc523aeFuwhwFMUwxJ+\nnCs5rXCpTwE64HZbQMc09P1WKaR3vp0l0SSIo3Qx46vgu/o4JXfjPiPIIGV17j6t\nBkDhxkqeX7mj0ADUNpQQsB8mgw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aborisov-admitad@evident-alloy-377514.iam.gserviceaccount.com",
+  "client_id": "113328185310048428027",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aborisov-admitad%40evident-alloy-377514.iam.gserviceaccount.com"
+}
