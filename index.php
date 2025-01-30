@@ -1,4 +1,12 @@
 <?php
+
+    // Вимикає всі типи повідомлень про помилки в PHP
+    error_reporting(0);
+
+    // Забороняє відображення помилок у браузері
+    ini_set('display_errors', 0);
+
+
     echo '<pre>Export started at: '. date("Y-m-d H:i:s").'<br>';
 
     /**
