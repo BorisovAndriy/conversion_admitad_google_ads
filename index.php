@@ -1,7 +1,7 @@
 <?php
 
     // Вимикає всі типи повідомлень про помилки в PHP
-    error_reporting(0);
+    //error_reporting(0);
 
     // Забороняє відображення помилок у браузері
     ini_set('display_errors', 0);
