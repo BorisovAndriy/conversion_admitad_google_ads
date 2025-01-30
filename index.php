@@ -15,7 +15,7 @@
     $configs = [];
     $client_id = false;
 
-    const CONFIGS_PATH = 'configs/';
+    const CONFIGS_PATH = $_SERVER['DOCUMENT_ROOT'] . '/configs/';
     require_once (CONFIGS_PATH.'configs.php');
 
     /**
